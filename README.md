@@ -26,8 +26,9 @@
 * krg7880 - [loopback-connector-memcached](https://github.com/krg7880/loopback-connector-memcached)
 * jagad - [loopback-connector-crate](https://github.com/jagad/loopback-connector-crate)
 * dittach - [loopback-connector-riak](https://github.com/dittach/loopback-connector-riak)
-* fuwaneko - [loopback-connector-rethinkdb](https://github.com/fuwaneko/loopback-connector-rethinkdb)
-* yoobic - [loopback-connector-rethinkdbdash](https://github.com/Yoobic/loopback-connector-rethinkdbdash)
+* Rethinkdb
+  * fuwaneko - [loopback-connector-rethinkdb](https://github.com/fuwaneko/loopback-connector-rethinkdb)
+  * yoobic - [loopback-connector-rethinkdbdash](https://github.com/Yoobic/loopback-connector-rethinkdbdash)
 * raymondfeng - [loopback-connector-tingodb](https://github.com/raymondfeng/loopbacsearchk-connector-tingodb)
 * jensonzhao - [loopback-connector-saphana](https://github.com/jensonzhao/loopback-connector-saphana)
 * r3dm - [loopback-connector-localForage](https://github.com/r3dm/loopback-connector-localForage)
