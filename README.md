@@ -10,6 +10,7 @@
 * [loopback-connector-mysql](https://github.com/strongloop/loopback-connector-mysql)
 * [loopback-connector-postgresql](https://github.com/strongloop/loopback-connector-postgresql)
 * [loopback-connector-rest](https://github.com/strongloop/loopback-connector-rest)
+* [loopback-bacn](https://github.com/strongloop/loopback-bacn)
 
 ### Third Party
 * Elastic Search
@@ -23,7 +24,9 @@
   * guardly - [loopback-connector-couchbase](https://github.com/guardly/loopback-connector-couchbase)
   * JasonTarka - [loopback-couchbase](https://github.com/JasonTarka/loopback-couchbase)
 * mattange - [loopback-connector-couch](https://github.com/mattange/loopback-connector-couch)
-* krg7880 - [loopback-connector-memcached](https://github.com/krg7880/loopback-connector-memcached)
+* memcached
+  * krg7880 - [loopback-connector-memcached](https://github.com/krg7880/loopback-connector-memcached)
+  * krg7880 - [loopback-connector-memcached](https://github.com/krg7880/loopback-connector-memcached)
 * jagad - [loopback-connector-crate](https://github.com/jagad/loopback-connector-crate)
 * dittach - [loopback-connector-riak](https://github.com/dittach/loopback-connector-riak)
 * Rethinkdb
@@ -50,8 +53,17 @@
 * SLonoed - [loopback-connector-fakemail](https://github.com/SLonoed/loopback-connector-fakemail)
 * stephanepericat - [loopback-connector-lokijs](https://github.com/stephanepericat/loopback-connector-lokijs)
 * mattaylor - [loopback-connector-orientdb](https://github.com/mattaylor/loopback-connector-orientdb)
-* krg7880 - [loopback-connector-memcached](https://github.com/krg7880/loopback-connector-memcached)
 * lovelysystems - [loopback-connector-crateio](https://github.com/lovelysystems/loopback-connector-crateio)
+* vancarney - [loopback-connector-apihero-mongodb](https://github.com/vancarney/loopback-connector-apihero-mongodb)
+* hellsan631 - [loopback-connector-aerospike](https://github.com/hellsan631/loopback-connector-aerospike)
+* Starchup - [statsd-loopback-backend](https://github.com/Starchup/statsd-loopback-backend)
+* violet-day - [loopback-connector-thrift](https://github.com/violet-day/loopback-connector-thrift)
+* r3dm - [loopback-connector-indexedDB](https://github.com/r3dm/loopback-connector-indexedDB)
+* FlexShopper - [https://github.com/FlexShopper/loopback-connector-oriento](https://github.com/FlexShopper/loopback-connector-oriento)
+* peerbelt - [loopback-connector-cassandra](https://github.com/peerbelt/loopback-connector-cassandra)
+* raibutera - [loopback-connector-orchestrate](https://github.com/raibutera/loopback-connector-orchestrate)
+* stormpath - [loopback-connector-stormpath](https://github.com/stormpath/loopback-connector-stormpath)
+* strongloop - [loopback-connector-jsonrpc](https://github.com/strongloop/loopback-connector-jsonrpc)
 
 ## Enterprise Connectors
 * [loopback-connector-oracle](https://github.com/strongloop/loopback-connector-oracle)
@@ -156,5 +168,3 @@
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Pasindu De Silva](t) has waived all copyright and related or neighboring rights to this work.
-
-
