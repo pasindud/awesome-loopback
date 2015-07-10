@@ -26,7 +26,6 @@
 * mattange - [loopback-connector-couch](https://github.com/mattange/loopback-connector-couch)
 * memcached
   * krg7880 - [loopback-connector-memcached](https://github.com/krg7880/loopback-connector-memcached)
-  * krg7880 - [loopback-connector-memcached](https://github.com/krg7880/loopback-connector-memcached)
 * jagad - [loopback-connector-crate](https://github.com/jagad/loopback-connector-crate)
 * dittach - [loopback-connector-riak](https://github.com/dittach/loopback-connector-riak)
 * Rethinkdb
