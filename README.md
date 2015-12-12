@@ -96,6 +96,7 @@
 * [loopback-explorer](https://github.com/strongloop/loopback-explorer)
 * [loopback-workspace](https://github.com/strongloop/loopback-workspace)
 * [generator-loopback](https://github.com/strongloop/generator-loopback)
+* [loopback-console](https://github.com/GovRight/loopback-console)
 
 ## Examples
 * [loopback-example](https://github.com/strongloop/loopback-example)
