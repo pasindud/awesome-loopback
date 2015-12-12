@@ -10,7 +10,6 @@
 * [loopback-connector-mysql](https://github.com/strongloop/loopback-connector-mysql)
 * [loopback-connector-postgresql](https://github.com/strongloop/loopback-connector-postgresql)
 * [loopback-connector-rest](https://github.com/strongloop/loopback-connector-rest)
-* [loopback-bacn](https://github.com/strongloop/loopback-bacn)
 
 ### Third Party
 * Elastic Search
