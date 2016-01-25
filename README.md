@@ -75,6 +75,8 @@
 * [loopback-component-push](https://github.com/strongloop/loopback-component-push)
 * [loopback-component-satellizer](https://github.com/moooink/loopback-component-satellizer)
 * [loopback-component-storage](https://github.com/strongloop/loopback-component-storage)
+* [loopback-component-storage-mongo](https://github.com/jdrouet/loopback-component-storage-mongo)
+* [loopback-component-storage-postgres](https://github.com/jdrouet/loopback-component-storage-postgres)
 
 ### Third Party
 * evenemento - [loopback-component-gcloud](https://github.com/evenemento/loopback-component-gcloud)
