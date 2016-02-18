@@ -17,7 +17,6 @@
   * drakerian - [loopback-connector-elastic-search](https://github.com/drakerian/loopback-connector-elastic-search) (abandoned 2014-10-01)
   * offlinehacker - [loopback-connector-elasticsearch](https://github.com/offlinehacker/loopback-connector-elasticsearch) (abandoned 2014-08-06)
   * yagobski - [loopback-connector-elastic](https://github.com/yagobski/loopback-connector-elastic) (abandoned 2015-03-16)
-* claylo - [loopback-connector-dynamodb](https://github.com/claylo/loopback-connector-dynamodb)
 * IndustrialCloudSolutions - [loopback-connector-neo4j](https://github.com/IndustrialCloudSolutions/loopback-connector-neo4j)
 * timosaikkonen - [loopback-search-index](https://github.com/timosaikkonen/loopback-search-index)
 * Couchbase
