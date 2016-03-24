@@ -61,6 +61,7 @@
 * raibutera - [loopback-connector-orchestrate](https://github.com/raibutera/loopback-connector-orchestrate)
 * stormpath - [loopback-connector-stormpath](https://github.com/stormpath/loopback-connector-stormpath)
 * strongloop - [loopback-connector-jsonrpc](https://github.com/strongloop/loopback-connector-jsonrpc)
+* pbhadauria2000 - [loopback-connector-flexirest](https://github.com/yantrashala/loopback-connector-flexirest)
 
 ## Enterprise Connectors
 * [loopback-connector-oracle](https://github.com/strongloop/loopback-connector-oracle)
@@ -79,6 +80,7 @@
 * evenemento - [loopback-component-gcloud](https://github.com/evenemento/loopback-component-gcloud)
 * evenemento - [loopback-component-mandrill](https://github.com/evenemento/loopback-component-mandrill)
 * evenemento - [loopback-component-appengine](https://github.com/evenemento/loopback-component-appengine)
+* pbhadauria2000 - [loopback-component-logger](https://github.com/yantrashala/loopback-component-logger)
 
 ## Client SDKs
 * [loopback-sdk-ios](https://github.com/strongloop/loopback-sdk-ios)
