@@ -116,6 +116,20 @@
 ## Middleware
 * paulomcnally - [loopback-dasherize](https://github.com/paulomcnally/loopback-dasherize)
 
+## Mixins
+* [loopback-ds-sanitizer-mixin](https://github.com/FoKo/loopback-ds-sanitizer-mixin)
+* [loopback-ds-timestamp-mixin] (https://github.com/clarkbw/loopback-ds-timestamp-mixin)
+* [loopback-ds-readonly-mixin] (https://github.com/fullcube/loopback-ds-readonly-mixin)
+* [loopback-ds-calculated-mixin] (https://github.com/fullcube/loopback-ds-calculated-mixin)
+* [loopback-softdelete-mixin] (https://github.com/gausie/loopback-softdelete-mixin)
+* [loopback-tree-mixin] (https://github.com/csbenjamin/loopback-tree-mixin)
+* [loopback-counts-mixin] (https://github.com/exromany/loopback-counts-mixin)
+* [loopback-stats-mixin] (https://github.com/jonathan-casarrubias/loopback-stats-mixin)
+* [loopback-ds-paginate-mixin] (https://github.com/fullcube/loopback-ds-paginate-mixin)
+* [loopback-ds-ips-mixin] (https://github.com/bootenv/loopback-ds-ips-mixin)
+* [loopback-ds-changed-mixin] (https://github.com/fullcube/loopback-ds-changed-mixin)
+* [loopback-increment-mixin] (https://github.com/mitchmyburgh/loopback-increment-mixin)
+
 ## Other
 * Rikhart - [loopback-slug](https://github.com/Rikhart/loopback-slug)
 * evenemento - [loopback-promisify](https://github.com/evenemento/loopback-promisify)
