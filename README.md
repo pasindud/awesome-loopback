@@ -32,7 +32,6 @@
   * yoobic - [loopback-connector-rethinkdbdash](https://github.com/Yoobic/loopback-connector-rethinkdbdash)
 * raymondfeng - [loopback-connector-tingodb](https://github.com/raymondfeng/loopbacsearchk-connector-tingodb)
 * jensonzhao - [loopback-connector-saphana](https://github.com/jensonzhao/loopback-connector-saphana)
-* r3dm - [loopback-connector-localForage](https://github.com/r3dm/loopback-connector-localForage)
 * vadiraja - [loopback-connector-googledata](https://github.com/vadiraja/loopback-connector-googledata)
 * Kafka
   * IndustrialCloudSolutions - [loopback-connector-kafka](https://github.com/IndustrialCloudSolutions/loopback-connector-kafka)
