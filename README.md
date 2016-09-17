@@ -60,6 +60,7 @@
 * raibutera - [loopback-connector-orchestrate](https://github.com/raibutera/loopback-connector-orchestrate)
 * stormpath - [loopback-connector-stormpath](https://github.com/stormpath/loopback-connector-stormpath)
 * strongloop - [loopback-connector-jsonrpc](https://github.com/strongloop/loopback-connector-jsonrpc)
+* duffn - [loopback-connector-redshift](https://github.com/duffn/loopback-connector-redshift)
 
 ## Enterprise Connectors
 * [loopback-connector-oracle](https://github.com/strongloop/loopback-connector-oracle)
