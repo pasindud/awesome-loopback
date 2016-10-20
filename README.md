@@ -171,6 +171,7 @@
 * jdgarvey - [sermon-api](https://github.com/jdgarvey/sermon-api)
 * mbenaissa - [LB](https://github.com/mbenaissa/LB)
 * Ritchie Martori - [loopback-foodme](https://github.com/ritch/loopback-foodme)
+* FreeCodeCamp - [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp)
 
 ## Videos
 * Ritchie Martori - StrongLoop [Getting Started with LoopBack....](https://www.youtube.com/watch?v=b_ZnifGdgZY)
