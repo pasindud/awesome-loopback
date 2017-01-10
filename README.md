@@ -37,7 +37,6 @@
   * IndustrialCloudSolutions - [loopback-connector-kafka](https://github.com/IndustrialCloudSolutions/loopback-connector-kafka)
   * haio - [loopback-connector-kafka](https://github.com/haio/loopback-connector-kafka)
 * austinsc - [loopback-connector-ravendb](https://github.com/austinsc/loopback-connector-ravendb)
-* ecowden - [loopback-connector-knex](https://github.com/ecowden/loopback-connector-knex)
 * Synerzip - [loopback-connector-redis](https://github.com/Synerzip/loopback-connector-redis)
 * timosaikkonen - [loopback-connector-solr](https://github.com/timosaikkonen/loopback-connector-solr)
 * ryedin - [loopback-connector-keystonejs](https://github.com/ryedin/loopback-connector-keystonejs)
