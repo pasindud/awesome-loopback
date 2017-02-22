@@ -153,7 +153,7 @@
 * jewelsjacobs - [mean-loopback-presentation](https://github.com/jewelsjacobs/mean-loopback-presentation)
 
 ##Projects
-* beeman - [loopback-angular-admin](https://github.com/beeman/loopback-angular-admin)
+* beeman - [colmena-cms](https://github.com/colmena/colmena-cms)
 * rblalock - [lb_cms](https://github.com/rblalock/lb_cms)
 * cheshire-howe - [blog-loopback](https://github.com/cheshire-howe/blog-loopback)
 * smlsunxie - [loopback-tdd-sample](https://github.com/smlsunxie/loopback-tdd-sample)
