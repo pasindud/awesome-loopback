@@ -154,7 +154,7 @@
 ## Presentations
 * jewelsjacobs - [mean-loopback-presentation](https://github.com/jewelsjacobs/mean-loopback-presentation)
 
-##Projects
+## Projects
 * beeman - [colmena-cms](https://github.com/colmena/colmena-cms)
 * rblalock - [lb_cms](https://github.com/rblalock/lb_cms)
 * cheshire-howe - [blog-loopback](https://github.com/cheshire-howe/blog-loopback)
