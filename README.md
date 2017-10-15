@@ -62,7 +62,7 @@
 * stormpath - [loopback-connector-stormpath](https://github.com/stormpath/loopback-connector-stormpath)
 * strongloop - [loopback-connector-jsonrpc](https://github.com/strongloop/loopback-connector-jsonrpc)
 * duffn - [loopback-connector-redshift](https://github.com/duffn/loopback-connector-redshift)
-* Firebase Firestore - [loopback-connector-firestore](https://github.com/dyaa/loopback-connector-firestore)
+* dyaa - [loopback-connector-firestore](https://github.com/dyaa/loopback-connector-firestore)
 
 ## Enterprise Connectors
 * [loopback-connector-oracle](https://github.com/strongloop/loopback-connector-oracle)
