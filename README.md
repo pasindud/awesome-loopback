@@ -12,6 +12,7 @@
 * [loopback-connector-mysql](https://github.com/strongloop/loopback-connector-mysql)
 * [loopback-connector-postgresql](https://github.com/strongloop/loopback-connector-postgresql)
 * [loopback-connector-rest](https://github.com/strongloop/loopback-connector-rest)
+* [loopback-connector-jsonrpc](https://github.com/strongloop/loopback-connector-jsonrpc)
 
 ### Third Party
 * Elastic Search
@@ -60,9 +61,9 @@
 * peerbelt - [loopback-connector-cassandra](https://github.com/peerbelt/loopback-connector-cassandra)
 * raibutera - [loopback-connector-orchestrate](https://github.com/raibutera/loopback-connector-orchestrate)
 * stormpath - [loopback-connector-stormpath](https://github.com/stormpath/loopback-connector-stormpath)
-* strongloop - [loopback-connector-jsonrpc](https://github.com/strongloop/loopback-connector-jsonrpc)
 * duffn - [loopback-connector-redshift](https://github.com/duffn/loopback-connector-redshift)
 * dyaa - [loopback-connector-firestore](https://github.com/dyaa/loopback-connector-firestore)
+* yantrashala - [loopback-connector-flexirest](https://github.com/yantrashala/loopback-connector-flexirest)
 
 ## Enterprise Connectors
 * [loopback-connector-oracle](https://github.com/strongloop/loopback-connector-oracle)
@@ -71,18 +72,19 @@
 * [loopback-connector-atg](https://github.com/strongloop/loopback-connector-atg)
 
 ## Components
-* [loopback-component-admin](https://github.com/BoLaMN/loopback-component-admin)
 * [loopback-component-passport](https://github.com/strongloop/loopback-component-passport)
 * [loopback-component-push](https://github.com/strongloop/loopback-component-push)
-* [loopback-component-satellizer](https://github.com/moooink/loopback-component-satellizer)
 * [loopback-component-storage](https://github.com/strongloop/loopback-component-storage)
 
 ### Third Party
+* moooink - [loopback-component-satellizer](https://github.com/moooink/loopback-component-satellizer)
+* BoLaMN - [loopback-component-admin](https://github.com/BoLaMN/loopback-component-admin)
 * evenemento - [loopback-component-gcloud](https://github.com/evenemento/loopback-component-gcloud)
 * evenemento - [loopback-component-mandrill](https://github.com/evenemento/loopback-component-mandrill)
 * evenemento - [loopback-component-appengine](https://github.com/evenemento/loopback-component-appengine)
 * jdrouet - [loopback-component-storage-mongo](https://github.com/jdrouet/loopback-component-storage-mongo)
 * jdrouet - [loopback-component-storage-postgres](https://github.com/jdrouet/loopback-component-storage-postgres)
+* pbhadauria2000 - [loopback-component-logger](https://github.com/yantrashala/loopback-component-logger)
 
 ## Client SDKs
 * [loopback-sdk-ios](https://github.com/strongloop/loopback-sdk-ios)
@@ -122,18 +124,18 @@
 * paulomcnally - [loopback-dasherize](https://github.com/paulomcnally/loopback-dasherize)
 
 ## Mixins
-* [loopback-ds-sanitizer-mixin](https://github.com/FoKo/loopback-ds-sanitizer-mixin)
-* [loopback-ds-timestamp-mixin] (https://github.com/clarkbw/loopback-ds-timestamp-mixin)
-* [loopback-ds-readonly-mixin] (https://github.com/fullcube/loopback-ds-readonly-mixin)
-* [loopback-ds-calculated-mixin] (https://github.com/fullcube/loopback-ds-calculated-mixin)
-* [loopback-softdelete-mixin] (https://github.com/gausie/loopback-softdelete-mixin)
-* [loopback-tree-mixin] (https://github.com/csbenjamin/loopback-tree-mixin)
-* [loopback-counts-mixin] (https://github.com/exromany/loopback-counts-mixin)
-* [loopback-stats-mixin] (https://github.com/jonathan-casarrubias/loopback-stats-mixin)
-* [loopback-ds-paginate-mixin] (https://github.com/fullcube/loopback-ds-paginate-mixin)
-* [loopback-ds-ips-mixin] (https://github.com/bootenv/loopback-ds-ips-mixin)
-* [loopback-ds-changed-mixin] (https://github.com/fullcube/loopback-ds-changed-mixin)
-* [loopback-increment-mixin] (https://github.com/mitchmyburgh/loopback-increment-mixin)
+* FoKo - [loopback-ds-sanitizer-mixin](https://github.com/FoKo/loopback-ds-sanitizer-mixin)
+* clarkbw - [loopback-ds-timestamp-mixin](https://github.com/clarkbw/loopback-ds-timestamp-mixin)
+* gausie - [loopback-softdelete-mixin](https://github.com/gausie/loopback-softdelete-mixin)
+* csbenjamin - [loopback-tree-mixin](https://github.com/csbenjamin/loopback-tree-mixin)
+* exromany - [loopback-counts-mixin](https://github.com/exromany/loopback-counts-mixin)
+* jonathan-casarrubias - [loopback-stats-mixin](https://github.com/jonathan-casarrubias/loopback-stats-mixin)
+* fullcube - [loopback-ds-paginate-mixin](https://github.com/fullcube/loopback-ds-paginate-mixin)
+* fullcube - [loopback-ds-readonly-mixin](https://github.com/fullcube/loopback-ds-readonly-mixin)
+* fullcube - [loopback-ds-calculated-mixin](https://github.com/fullcube/loopback-ds-calculated-mixin)
+* fullcube - [loopback-ds-changed-mixin](https://github.com/fullcube/loopback-ds-changed-mixin)
+* bootenv - [loopback-ds-ips-mixin](https://github.com/bootenv/loopback-ds-ips-mixin)
+* mitchmyburgh - [loopback-increment-mixin](https://github.com/mitchmyburgh/loopback-increment-mixin)
 
 ## Other
 * Rikhart - [loopback-slug](https://github.com/Rikhart/loopback-slug)
