@@ -76,13 +76,13 @@
 * [loopback-component-push](https://github.com/strongloop/loopback-component-push)
 * [loopback-component-satellizer](https://github.com/moooink/loopback-component-satellizer)
 * [loopback-component-storage](https://github.com/strongloop/loopback-component-storage)
-* [loopback-component-storage-mongo](https://github.com/jdrouet/loopback-component-storage-mongo)
-* [loopback-component-storage-postgres](https://github.com/jdrouet/loopback-component-storage-postgres)
 
 ### Third Party
 * evenemento - [loopback-component-gcloud](https://github.com/evenemento/loopback-component-gcloud)
 * evenemento - [loopback-component-mandrill](https://github.com/evenemento/loopback-component-mandrill)
 * evenemento - [loopback-component-appengine](https://github.com/evenemento/loopback-component-appengine)
+* jdrouet - [loopback-component-storage-mongo](https://github.com/jdrouet/loopback-component-storage-mongo)
+* jdrouet - [loopback-component-storage-postgres](https://github.com/jdrouet/loopback-component-storage-postgres)
 
 ## Client SDKs
 * [loopback-sdk-ios](https://github.com/strongloop/loopback-sdk-ios)
