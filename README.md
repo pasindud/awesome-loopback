@@ -72,13 +72,13 @@
 * [loopback-connector-atg](https://github.com/strongloop/loopback-connector-atg)
 
 ## Components
-* [loopback-component-admin](https://github.com/BoLaMN/loopback-component-admin)
 * [loopback-component-passport](https://github.com/strongloop/loopback-component-passport)
 * [loopback-component-push](https://github.com/strongloop/loopback-component-push)
-* [loopback-component-satellizer](https://github.com/moooink/loopback-component-satellizer)
 * [loopback-component-storage](https://github.com/strongloop/loopback-component-storage)
 
 ### Third Party
+* moooink - [loopback-component-satellizer](https://github.com/moooink/loopback-component-satellizer)
+* BoLaMN - [loopback-component-admin](https://github.com/BoLaMN/loopback-component-admin)
 * evenemento - [loopback-component-gcloud](https://github.com/evenemento/loopback-component-gcloud)
 * evenemento - [loopback-component-mandrill](https://github.com/evenemento/loopback-component-mandrill)
 * evenemento - [loopback-component-appengine](https://github.com/evenemento/loopback-component-appengine)
