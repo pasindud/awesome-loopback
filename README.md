@@ -63,6 +63,7 @@
 * strongloop - [loopback-connector-jsonrpc](https://github.com/strongloop/loopback-connector-jsonrpc)
 * duffn - [loopback-connector-redshift](https://github.com/duffn/loopback-connector-redshift)
 * dyaa - [loopback-connector-firestore](https://github.com/dyaa/loopback-connector-firestore)
+* yantrashala - [loopback-connector-flexirest](https://github.com/yantrashala/loopback-connector-flexirest)
 
 ## Enterprise Connectors
 * [loopback-connector-oracle](https://github.com/strongloop/loopback-connector-oracle)
@@ -81,6 +82,7 @@
 * evenemento - [loopback-component-gcloud](https://github.com/evenemento/loopback-component-gcloud)
 * evenemento - [loopback-component-mandrill](https://github.com/evenemento/loopback-component-mandrill)
 * evenemento - [loopback-component-appengine](https://github.com/evenemento/loopback-component-appengine)
+* pbhadauria2000 - [loopback-component-logger](https://github.com/yantrashala/loopback-component-logger)
 
 ## Client SDKs
 * [loopback-sdk-ios](https://github.com/strongloop/loopback-sdk-ios)
