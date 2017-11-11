@@ -12,6 +12,7 @@
 * [loopback-connector-mysql](https://github.com/strongloop/loopback-connector-mysql)
 * [loopback-connector-postgresql](https://github.com/strongloop/loopback-connector-postgresql)
 * [loopback-connector-rest](https://github.com/strongloop/loopback-connector-rest)
+* [loopback-connector-jsonrpc](https://github.com/strongloop/loopback-connector-jsonrpc)
 
 ### Third Party
 * Elastic Search
@@ -60,7 +61,6 @@
 * peerbelt - [loopback-connector-cassandra](https://github.com/peerbelt/loopback-connector-cassandra)
 * raibutera - [loopback-connector-orchestrate](https://github.com/raibutera/loopback-connector-orchestrate)
 * stormpath - [loopback-connector-stormpath](https://github.com/stormpath/loopback-connector-stormpath)
-* strongloop - [loopback-connector-jsonrpc](https://github.com/strongloop/loopback-connector-jsonrpc)
 * duffn - [loopback-connector-redshift](https://github.com/duffn/loopback-connector-redshift)
 * dyaa - [loopback-connector-firestore](https://github.com/dyaa/loopback-connector-firestore)
 * yantrashala - [loopback-connector-flexirest](https://github.com/yantrashala/loopback-connector-flexirest)
