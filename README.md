@@ -155,6 +155,7 @@
 * violet-day - [loopback-angular-seed](https://github.com/violet-day/loopback-angular-seed)
 * mschmulen - [loopback-mobile-node-backend-on-heroku](https://github.com/mschmulen/loopback-mobile-node-backend-on-heroku)
 * marshill - [lb_check](https://github.com/marshill/lb_check)
+* slahiri - [loopback-ssl] (https://github.com/yantrashala/loopback-ssl)
 
 ## Presentations
 * jewelsjacobs - [mean-loopback-presentation](https://github.com/jewelsjacobs/mean-loopback-presentation)
