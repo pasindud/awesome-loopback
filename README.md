@@ -181,7 +181,6 @@
 * FreeCodeCamp - [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp)
 
 ## Videos
-* Ritchie Martori - StrongLoop [Getting Started with LoopBack....](https://www.youtube.com/watch?v=b_ZnifGdgZY)
 * Shubhra Kar - StrongLoop [loopBack.io ..](https://www.youtube.com/watch?v=Rip_3nbk7Rw)
 * Shubhra Kar - StrongLoop [LoopBack Fundamentals Install Build APIs...](https://www.youtube.com/watch?v=wW_jSwVcXuM)
 * Bram Borggreve - [Build a Node JS REST API with LoopBack](https://egghead.io/courses/build-a-node-js-rest-api-with-loopback)
