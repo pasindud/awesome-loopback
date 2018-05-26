@@ -137,6 +137,10 @@
 * bootenv - [loopback-ds-ips-mixin](https://github.com/bootenv/loopback-ds-ips-mixin)
 * mitchmyburgh - [loopback-increment-mixin](https://github.com/mitchmyburgh/loopback-increment-mixin)
 
+## Testing
+* InCuca - [loopback-chai](https://github.com/InCuca/loopback-chai)
+* smlsunxie - [loopback-tdd-sample](https://github.com/smlsunxie/loopback-tdd-sample)
+
 ## Other
 * Rikhart - [loopback-slug](https://github.com/Rikhart/loopback-slug)
 * evenemento - [loopback-promisify](https://github.com/evenemento/loopback-promisify)
@@ -155,7 +159,8 @@
 * violet-day - [loopback-angular-seed](https://github.com/violet-day/loopback-angular-seed)
 * mschmulen - [loopback-mobile-node-backend-on-heroku](https://github.com/mschmulen/loopback-mobile-node-backend-on-heroku)
 * marshill - [lb_check](https://github.com/marshill/lb_check)
-* slahiri - [loopback-ssl] (https://github.com/yantrashala/loopback-ssl)
+* slahiri - [loopback-ssl](https://github.com/yantrashala/loopback-ssl)
+* InCuca - [vue-loopback](https://github.com/InCuca/vue-loopback)
 
 ## Presentations
 * jewelsjacobs - [mean-loopback-presentation](https://github.com/jewelsjacobs/mean-loopback-presentation)
@@ -164,7 +169,6 @@
 * beeman - [colmena-cms](https://github.com/colmena/colmena-cms)
 * rblalock - [lb_cms](https://github.com/rblalock/lb_cms)
 * cheshire-howe - [blog-loopback](https://github.com/cheshire-howe/blog-loopback)
-* smlsunxie - [loopback-tdd-sample](https://github.com/smlsunxie/loopback-tdd-sample)
 * justinwyer - [hubot-loopback-adapter](https://github.com/justinwyer/hubot-loopback-adapter)
 * beeman - [loopback-angular-material](https://github.com/beeman/loopback-angular-material)
 * wittydeveloper - [loopback-talk-chat-app](https://github.com/wittydeveloper/loopback-talk-chat-app)
