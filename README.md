@@ -139,6 +139,7 @@
 
 ## Testing
 * InCuca - [loopback-chai](https://github.com/InCuca/loopback-chai)
+* InCuca - [loopback-jest](https://github.com/InCuca/loopback-jest)
 * smlsunxie - [loopback-tdd-sample](https://github.com/smlsunxie/loopback-tdd-sample)
 
 ## Other
