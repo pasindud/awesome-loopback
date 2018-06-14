@@ -140,6 +140,7 @@
 ## Testing
 * InCuca - [loopback-chai](https://github.com/InCuca/loopback-chai)
 * InCuca - [loopback-jest](https://github.com/InCuca/loopback-jest)
+* negativetwelve - [jest-preset-loopback](https://github.com/negativetwelve/jest-preset-loopback)
 * smlsunxie - [loopback-tdd-sample](https://github.com/smlsunxie/loopback-tdd-sample)
 
 ## Other
