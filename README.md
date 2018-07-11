@@ -25,6 +25,7 @@
 * Couchbase
   * guardly - [loopback-connector-couchbase](https://github.com/guardly/loopback-connector-couchbase)
   * JasonTarka - [loopback-couchbase](https://github.com/JasonTarka/loopback-couchbase)
+  * juanelojga - [loopback3-connector-couchbase](https://www.npmjs.com/package/loopback3-connector-couchbase)
 * mattange - [loopback-connector-couch](https://github.com/mattange/loopback-connector-couch)
 * memcached
   * krg7880 - [loopback-connector-memcached](https://github.com/krg7880/loopback-connector-memcached)
